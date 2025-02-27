@@ -1,0 +1,153 @@
+﻿{
+   "CodeGenerationMode": 5,
+   "ContextClassName": "CaringDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "SIMIKO.App.Server",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[JenisAktivitas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JenisKompetensi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JenisModul]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JenisSKompetensi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JenisTahapan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_Activity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_pegawaiAktif]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_pegawaiEksternal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tbl_versi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblAssesmentUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblEvaluasi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblHardKompetensi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblHasilAssesment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblIDP]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblJabatan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblJabTarget]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblJurnal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblKompetensiCoaching]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblLogJurnal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblMentorPeriode]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblPeriode]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblRenbang]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblRole]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblSoftKompetensi]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUserBusiness]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[v_PegawaiAll]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}

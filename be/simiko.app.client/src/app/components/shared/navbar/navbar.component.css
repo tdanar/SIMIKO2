@@ -1,0 +1,78 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  height: 64px; /* Pastikan ini sama dengan tinggi header sidebar */
+  padding: 0 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.navbar-start, .navbar-end {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.toggle-button {
+  margin-right: 16px;
+}
+
+  .toggle-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+.navbar-title {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.notification-button {
+  margin-right: 16px;
+}
+
+.user-menu {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+  .user-menu .user-avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin-right: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+  }
+
+  .user-menu .user-name {
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .navbar {
+    padding: 0 8px;
+  }
+
+  .toggle-button {
+    margin-right: 8px;
+  }
+
+  .notification-button {
+    margin-right: 8px;
+  }
+
+  .user-menu .user-name {
+    display: none;
+  }
+}

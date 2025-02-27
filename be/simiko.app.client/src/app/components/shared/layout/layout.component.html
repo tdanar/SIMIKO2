@@ -1,0 +1,26 @@
+<div class="app-layout">
+  <!-- Sidebar -->
+  <div class="sidebar-container" [ngClass]="{'expanded': isSidebarExpanded, 'collapsed': !isSidebarExpanded}">
+    <app-sidebar [isExpanded]="isSidebarExpanded" (toggleSidebar)="toggleSidebar()"></app-sidebar>
+  </div>
+
+  <div class="main-container" [ngClass]="{'sidebar-expanded': isSidebarExpanded, 'sidebar-collapsed': !isSidebarExpanded}" id="main-container">
+    <!-- Navbar -->
+    <app-navbar [isSidebarExpanded]="isSidebarExpanded" (toggleSidebarEvent)="toggleSidebar()"></app-navbar>
+
+    <!-- Main Content -->
+    <div class="content-container">
+      <router-outlet></router-outlet>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer" [ngClass]="{'sidebar-expanded': isSidebarExpanded, 'sidebar-collapsed': !isSidebarExpanded}">
+      <div class="footer-text">
+        © 2019-{{tahun}} • Bagian Sistem Informasi Pengawasan & Bagian Sumber Daya Manusia. All rights reserved.
+      </div>
+      <div class="app-version">
+        SIMIKO - Sistem Aplikasi Mentoring dan Coaching v.2
+      </div>
+    </div>
+  </div>
+</div>

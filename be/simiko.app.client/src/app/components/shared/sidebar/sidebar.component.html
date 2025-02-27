@@ -1,0 +1,41 @@
+<!-- Alternatif untuk Angular Material v15+ -->
+<div class="sidebar" [ngClass]="isExpanded ? 'expanded' : 'collapsed'" [@openClose]="isExpanded ? 'open' : 'closed'">
+  <div class="sidebar-header">
+    <div class="logo-container">
+      <h2 *ngIf="isExpanded">SIMIKO v2</h2>
+      <h2 *ngIf="!isExpanded">Sv2</h2>
+    </div>
+    <button mat-icon-button class="toggle-button" (click)="toggle()">
+      <mat-icon>{{ isExpanded ? 'chevron_left' : 'chevron_right' }}</mat-icon>
+    </button>
+  </div>
+
+  <div class="sidebar-content">
+    <!-- Admin Menu Section -->
+    <div class="menu-section">
+      <div class="menu-header" *ngIf="isExpanded">MENU ADMIN</div>
+      <div class="menu-header-collapsed" *ngIf="!isExpanded">ADMIN</div>
+
+      <mat-nav-list>
+        <a mat-list-item *ngFor="let item of adminMenuItems" [routerLink]="item.link" routerLinkActive="active-link" class="nav-item">
+          <mat-icon matListItemIcon>{{ item.icon }}</mat-icon>
+          <span matListItemTitle *ngIf="isExpanded">{{ item.name }}</span>
+          <mat-icon matListItemMeta *ngIf="isExpanded && item.hasSubmenu">chevron_right</mat-icon>
+        </a>
+      </mat-nav-list>
+    </div>
+
+    <!-- Mentoring Menu Section -->
+    <div class="menu-section">
+      <div class="menu-header" *ngIf="isExpanded">MENTORING</div>
+      <div class="menu-header-collapsed" *ngIf="!isExpanded">MENT</div>
+
+      <mat-nav-list>
+        <a mat-list-item *ngFor="let item of mentoringMenuItems" [routerLink]="item.link" routerLinkActive="active-link" class="nav-item">
+          <mat-icon matListItemIcon>{{ item.icon }}</mat-icon>
+          <span matListItemTitle *ngIf="isExpanded">{{ item.name }}</span>
+        </a>
+      </mat-nav-list>
+    </div>
+  </div>
+</div>

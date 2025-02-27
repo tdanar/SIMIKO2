@@ -1,0 +1,127 @@
+.dashboard-container {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Welcome section */
+.welcome-section {
+  margin-bottom: 40px;
+}
+
+.welcome-section .welcome-title {
+  font-size: 42px;
+  font-weight: 300;
+  margin: 0;
+  color: #333;
+}
+
+.welcome-section .user-name {
+  font-size: 28px;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 25px;
+  color: #666;
+}
+
+.welcome-section .action-button {
+  padding: 0 20px;
+  height: 40px;
+  font-size: 14px;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* Dashboard cards */
+.dashboard-cards {
+  margin-bottom: 40px;
+}
+
+.card-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.w-100 {
+  width: 100%;
+  height: 0;
+}
+
+.dashboard-card {
+  flex: 1;
+  min-width: 250px;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.dashboard-card .mat-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.dashboard-card .card-icon {
+  font-size: 48px;
+  height: 48px;
+  width: 48px;
+  margin-bottom: 16px;
+}
+
+.dashboard-card h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* Card colors */
+.orange-card {
+  background-color: var(--card-orange);
+  color: white;
+}
+
+.orange-card .card-icon {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Loading overlay */
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .welcome-section .welcome-title {
+    font-size: 32px;
+  }
+
+  .welcome-section .user-name {
+    font-size: 22px;
+  }
+
+  .card-row {
+    flex-direction: column;
+  }
+
+  .dashboard-card {
+    width: 100%;
+  }
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:64987",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Dev\\SIMIKO2\\be\\SIMIKO.App.Server\\..\\simiko.app.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

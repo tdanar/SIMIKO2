@@ -1,0 +1,6 @@
+@SIMIKO.App.Server_HostAddress = http://localhost:5191
+
+GET {{SIMIKO.App.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

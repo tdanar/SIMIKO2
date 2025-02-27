@@ -1,0 +1,32 @@
+<!-- Loading overlay -->
+<div class="loading-overlay" *ngIf="isLoading">
+  <mat-progress-spinner mode="indeterminate"></mat-progress-spinner>
+</div>
+
+<!-- Dashboard content -->
+<div class="dashboard-container" *ngIf="!isLoading">
+  <div class="welcome-section">
+    <h1 class="welcome-title">Selamat Datang,</h1>
+    <h2 class="user-name">{{ user?.displayname }}</h2>
+
+    <button mat-raised-button color="primary" class="action-button">
+      Membuat atau mengaktifkan Periode
+    </button>
+  </div>
+
+  <div class="dashboard-cards">
+    <div class="card-row">
+      <ng-container *ngFor="let card of dashboardCards; let i = index">
+        <mat-card class="dashboard-card" [ngClass]="card.color + '-card'" [routerLink]="card.link">
+          <mat-card-content>
+            <mat-icon class="card-icon">{{ card.icon }}</mat-icon>
+            <h2>{{ card.title }}</h2>
+          </mat-card-content>
+        </mat-card>
+
+        <!-- Create a new row after every 2 cards -->
+        <div class="w-100" *ngIf="(i + 1) % 2 === 0 && i !== dashboardCards.length - 1"></div>
+      </ng-container>
+    </div>
+  </div>
+</div>

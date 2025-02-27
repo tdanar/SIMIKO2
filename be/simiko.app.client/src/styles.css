@@ -1,0 +1,100 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Import Material theming - in CSS format instead of SCSS */
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+/* Global styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #999;
+  }
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+/* Fix for Angular Material icons alignment */
+.mat-icon {
+  vertical-align: middle;
+}
+
+/* Custom color variables - using CSS variables */
+:root {
+  --primary-color: #1976d2;
+  --accent-color: #ffd740;
+  --warn-color: #f44336;
+  --card-orange: #f39c12;
+  --sidebar-bg: #33465a; /* Lightened sidebar background */
+  --sidebar-header-bg: #293b4f; /* Lightened sidebar header */
+}
+
+/* Override some material theme colors */
+.mat-toolbar.mat-primary {
+  background-color: var(--primary-color);
+}
+
+.orange-card {
+  background-color: var(--card-orange);
+  color: white;
+}
+
+/* Make sure the Angular Material ripple effect works well with dark backgrounds */
+.mat-ripple-element {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.mat-toolbar,
+.mat-toolbar-row {
+  height: 64px !important;
+  min-height: 64px !important;
+}
