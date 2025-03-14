@@ -8,10 +8,10 @@
   <div class="welcome-section">
     <h1 class="welcome-title">Selamat Datang,</h1>
     <h2 class="user-name">{{ user?.displayname }}</h2>
+      <button mat-raised-button color="primary" class="action-button" *ngIf="isUserAdmin" (click)="OnCLickPeriode()">
+        Membuat atau mengaktifkan Periode
+      </button>
 
-    <button mat-raised-button color="primary" class="action-button">
-      Membuat atau mengaktifkan Periode
-    </button>
   </div>
 
   <div class="dashboard-cards">

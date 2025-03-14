@@ -65,7 +65,7 @@
 
   .menu-section .menu-header {
     padding: 10px 16px;
-    font-size: 12px;
+    font-size: 16px;
     color: rgba(255, 255, 255, 0.85);
     font-weight: 500;
     text-transform: uppercase;
@@ -86,48 +86,163 @@
   padding-top: 0;
 }
 
-  .mat-nav-list a {
-    height: 48px;
-    color: white;
-    font-weight: 400;
-  }
-
-    .mat-nav-list a mat-icon {
-      color: rgba(255, 255, 255, 0.85);
-      margin-right: 16px;
-    }
-
-    .mat-nav-list a:hover {
-      background-color: rgba(255, 255, 255, 0.12);
-    }
-
-    .mat-nav-list a.active-link {
-      background-color: rgba(255, 255, 255, 0.18);
-      border-left: 3px solid var(--primary-color);
-    }
-
-      .mat-nav-list a.active-link mat-icon {
-        color: white;
-      }
-
-/* Tambahan untuk memastikan teks terlihat */
-.mat-list-item-content {
+/* Menu Item Styling */
+.nav-item {
+  height: 48px;
   color: white !important;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  text-decoration: none;
+  margin: 0;
 }
 
-  .mat-list-item-content .mat-list-text {
-    color: white !important;
+.menu-icon {
+  color: rgba(255, 255, 255, 0.85);
+  margin-right: 16px;
+}
+
+.menu-text {
+  flex: 1;
+  color: white;
+}
+
+.expand-icon {
+  color: rgba(255, 255, 255, 0.85);
+  transition: transform 0.3s;
+}
+
+.nav-item:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.active-link {
+  background-color: rgba(255, 255, 255, 0.18);
+  border-left: 3px solid var(--primary-color);
+}
+
+  .active-link .menu-icon,
+  .active-link .menu-text,
+  .active-link .expand-icon {
+    color: white;
+  }
+
+/* Submenu Styling */
+.submenu {
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.15);
+  margin: 0;
+  padding: 0;
+}
+
+.submenu-link {
+  height: 40px !important;
+  padding-left: 56px !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+.submenu-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.submenu-icon {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.6);
+  margin-right: 10px;
+}
+
+.submenu-text {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.submenu-link:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.submenu-link.active-link {
+  background-color: rgba(255, 255, 255, 0.12);
+  border-left: none;
+}
+
+  .submenu-link.active-link .submenu-icon {
+    background-color: var(--primary-color);
+  }
+
+  .submenu-link.active-link .submenu-text {
+    color: white;
   }
 
 /* Optimize for collapsed state */
-.sidebar-collapsed .mat-list-item-content {
-  padding: 0 8px;
+.sidebar.collapsed .nav-item {
+  padding: 15px;
   justify-content: center;
 }
 
-.sidebar-collapsed mat-icon {
+.sidebar.collapsed .menu-icon {
   margin-right: 0;
 }
+
+/* Submenu in collapsed mode styling */
+.submenu-item-collapsed {
+  cursor: pointer;
+  position: relative;
+}
+
+  .submenu-item-collapsed:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .submenu-item-collapsed::after {
+    content: '';
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 5;
+  }
+
+/* Popup menu styling */
+::ng-deep .mat-menu-panel.mat-menu-panel {
+  min-width: 200px !important;
+  z-index: 1100 !important; /* Meningkatkan z-index */
+  margin-left: 10px !important; /* Offset dari sidebar */
+}
+
+/* Memastikan popup tidak tertutup oleh elemen lain */
+::ng-deep .cdk-overlay-container {
+  z-index: 1200 !important;
+}
+
+::ng-deep .cdk-overlay-pane {
+  z-index: 1100 !important;
+}
+
+::ng-deep .popup-header {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--primary-color);
+  padding: 12px 16px 8px;
+  margin: 0;
+  border-bottom: 1px solid #eee;
+}
+
+::ng-deep .active-popup-item {
+  background-color: rgba(0, 0, 0, 0.04);
+  font-weight: 500;
+}
+
+  ::ng-deep .active-popup-item span {
+    color: var(--primary-color);
+  }
 
 /* Scrollbar styling */
 ::-webkit-scrollbar {

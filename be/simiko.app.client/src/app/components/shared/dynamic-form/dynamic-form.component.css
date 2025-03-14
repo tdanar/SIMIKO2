@@ -1,0 +1,149 @@
+.dynamic-form-container {
+  margin-bottom: 20px;
+}
+
+.form-container {
+  width: 100%;
+  padding: 20px;
+}
+
+.form-header {
+  margin-bottom: 24px;
+}
+
+  .form-header h2 {
+    margin: 0 0 8px 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--primary-color, #1976d2);
+  }
+
+.form-description {
+  color: rgba(0, 0, 0, 0.6);
+  margin: 0;
+}
+
+.form-field-wrapper {
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.form-layout-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -8px;
+  margin-left: -8px;
+}
+
+  .form-layout-row .form-field-wrapper {
+    flex: 1 0 200px;
+    padding: 0 8px;
+    min-width: 200px;
+  }
+
+.form-layout-column {
+  display: flex;
+  flex-direction: column;
+}
+
+  .form-layout-column .form-field-wrapper {
+    width: 100%;
+  }
+
+.form-heading {
+  margin: 24px 0 16px;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.form-divider {
+  margin: 16px 0;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+  .form-actions button {
+    margin-left: 8px;
+  }
+
+.button-spinner {
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.mat-form-field-label {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-bottom: 8px;
+  display: block;
+}
+
+.required-marker {
+  color: red;
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.radio-button {
+  margin-bottom: 8px;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+}
+
+  .checkbox-group mat-checkbox {
+    margin-bottom: 8px;
+  }
+
+.form-field-radio,
+.form-field-checkbox,
+.form-field-checkbox-group,
+.form-field-toggle,
+.form-field-file {
+  margin-bottom: 16px;
+}
+
+.file-input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.file-name {
+  margin-left: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+mat-hint {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+mat-error {
+  font-size: 12px;
+  margin-top: 4px;
+}
+
+/* Responsive Grid */
+@media screen and (max-width: 600px) {
+  .form-layout-row .form-field-wrapper {
+    flex: 1 0 100%;
+  }
+}

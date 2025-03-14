@@ -3,112 +3,88 @@
   "WorkspaceRootPath": "D:\\Dev\\SIMIKO2\\be\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\services\\cores\\periode.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\services\\cores\\periode.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{28212A0C-4204-4501-95B3-2AE079D4261A}|SIMIKO.App.Server\\SIMIKO.App.Server.csproj|d:\\dev\\simiko2\\be\\simiko.app.server\\controllers\\periodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28212A0C-4204-4501-95B3-2AE079D4261A}|SIMIKO.App.Server\\SIMIKO.App.Server.csproj|solutionrelative:simiko.app.server\\controllers\\periodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\shared.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\services\\shared\\form.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\services\\shared\\form.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|d:\\dev\\simiko2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D6AFC6A-B049-41F8-B4FC-20C496C7DCEB}|simiko.app.client\\simiko.app.client.esproj|solutionrelative:simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -143,353 +119,255 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\index.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\index.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\index.html",
-              "RelativeToolTip": "simiko.app.client\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-27T07:44:40.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\main.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\main.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\main.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\main.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T07:44:35.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "app.component.ts",
               "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app.component.ts",
               "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.ts",
               "RelativeToolTip": "simiko.app.client\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T07:42:13.43Z",
+              "WhenOpened": "2025-03-13T08:03:11.079Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\auth.service.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\services\\auth.service.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\auth.service.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\services\\auth.service.ts",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T07:41:36.656Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "app.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-27T07:42:08.26Z",
-              "EditorCaption": ""
+              "Title": "periode.service.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\cores\\periode.service.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\services\\cores\\periode.service.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\cores\\periode.service.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\services\\cores\\periode.service.ts",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T04:11:00.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "app.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\app.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T06:58:49.252Z",
-              "EditorCaption": ""
+              "Title": "periode-list.component.html",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.html",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T03:59:31.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "sidebar.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-26T09:01:47.848Z",
-              "EditorCaption": ""
+              "Title": "PeriodeController.cs",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\SIMIKO.App.Server\\Controllers\\PeriodeController.cs",
+              "RelativeDocumentMoniker": "SIMIKO.App.Server\\Controllers\\PeriodeController.cs",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\SIMIKO.App.Server\\Controllers\\PeriodeController.cs",
+              "RelativeToolTip": "SIMIKO.App.Server\\Controllers\\PeriodeController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswHAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:31:00.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "styles.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\styles.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\styles.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\styles.css",
-              "RelativeToolTip": "simiko.app.client\\src\\styles.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T03:15:19.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "layout.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-27T04:08:06.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "sidebar.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T05:55:29.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "sidebar.component.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.ts",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-26T08:59:09.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "layout.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAkwH4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T05:55:49.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "navbar.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-26T09:04:49.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\login\\login.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\login\\login.component.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T05:07:14.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "navbar.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T05:54:57.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dashboard.component.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T04:25:22.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "login.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\login\\login.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\login\\login.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-27T05:07:29.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\login\\login.component.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\login\\login.component.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\login\\login.component.ts",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T05:00:55.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "navbar.component.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T04:59:12.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "dashboard.component.html",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-26T09:05:39.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "auth.guard.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\guards\\auth.guard.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\guards\\auth.guard.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\guards\\auth.guard.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\guards\\auth.guard.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T05:42:25.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T04:40:06.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "shared.module.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-26T08:57:02.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "app.module.ts",
               "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app.module.ts",
               "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "simiko.app.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-26T08:55:55.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T03:08:43.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "sidebar.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\sidebar\\sidebar.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwJQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "periode-list.component.css",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.css",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwE8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T09:02:48.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T06:31:56.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "navbar.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\navbar\\navbar.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T09:04:39.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "layout.component.css",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.css",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAiwIAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T04:22:32.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "layout.component.ts",
-              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts",
-              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts",
-              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts",
-              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\layout\\layout.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "periode-list.component.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-list.component.ts",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswIcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-27T04:15:04.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T03:46:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "periode-form.component.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T06:40:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dynamic-form.component.html",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.html",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAADIBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T02:33:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T06:55:13.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\dashboard\\dashboard.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T06:54:38.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "shared.module.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\shared.module.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T02:54:32.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dynamic-form.component.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\dynamic-form\\dynamic-form.component.ts",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAswNgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T02:42:00.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "form-field.model.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\models\\shared\\form-field.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T02:48:23.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "periode-form.component.html",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T06:48:29.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "confirm-dialog.component.html",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T06:36:36.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "form.service.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\shared\\form.service.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\services\\shared\\form.service.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\services\\shared\\form.service.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\services\\shared\\form.service.ts",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T07:04:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T06:50:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "periode-form.component.css",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\periode\\periode-form.component.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T06:49:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "confirm-dialog.component.css",
+              "DocumentMoniker": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css",
+              "RelativeDocumentMoniker": "simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css",
+              "ToolTip": "D:\\Dev\\SIMIKO2\\be\\simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css",
+              "RelativeToolTip": "simiko.app.client\\src\\app\\components\\shared\\confirm-dialog\\confirm-dialog.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T06:37:03.517Z"
             }
           ]
         }

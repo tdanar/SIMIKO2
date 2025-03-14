@@ -1,0 +1,18 @@
+<div class="periode-form-container">
+  <mat-card>
+    <mat-card-content>
+      <div *ngIf="errorMessage" class="error-message">
+        <mat-icon>error</mat-icon>
+        <span>{{ errorMessage }}</span>
+      </div>
+
+      <app-dynamic-form *ngIf="formConfig"
+                        [formConfig]="formConfig"
+                        [initialValues]="initialValues"
+                        [submitInProgress]="submitInProgress"
+                        (formSubmit)="onFormSubmit($event)"
+                        (formCancel)="onFormCancel()">
+      </app-dynamic-form>
+    </mat-card-content>
+  </mat-card>
+</div>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIMIKO.App.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a1da8b6538fe7d2a79aa7146e30cc77137f937")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIMIKO.App.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIMIKO.App.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

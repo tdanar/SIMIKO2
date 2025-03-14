@@ -1,0 +1,106 @@
+.periode-list-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.action-bar {
+  margin: 20px 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.error-message {
+  background-color: #fdecea;
+  color: #d32f2f;
+  padding: 12px 16px;
+  border-radius: 4px;
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+}
+
+  .error-message mat-icon {
+    margin-right: 8px;
+  }
+
+.full-width {
+  width: 100%;
+}
+
+.no-data {
+  text-align: center;
+  margin: 40px 0;
+  color: rgba(0, 0, 0, 0.54);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+  .no-data mat-icon {
+    font-size: 48px;
+    height: 48px;
+    width: 48px;
+    margin-bottom: 16px;
+  }
+
+mat-card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Table styling */
+table {
+  margin-top: 20px;
+}
+
+.mat-column-actions {
+  width: 80px;
+  text-align: right;
+}
+
+.mat-column-isActive {
+  width: 120px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .mat-table {
+    overflow-x: auto;
+    display: block;
+  }
+}
+
+/* Tambahan style untuk snackbar */
+::ng-deep .error-snackbar {
+  background-color: #f44336;
+  color: white;
+}
+
+::ng-deep .warning-snackbar {
+  background-color: #ff9800;
+  color: white;
+}
+
+/* Chip status styling */
+::ng-deep .mat-chip.mat-standard-chip {
+  min-width: 90px;
+  justify-content: center;
+}
+
+  ::ng-deep .mat-chip.mat-standard-chip:not(.mat-chip-disabled) {
+    cursor: pointer;
+  }
+
+    ::ng-deep .mat-chip.mat-standard-chip:not(.mat-chip-disabled):hover {
+      background-color: rgba(0, 0, 0, 0.04);
+    }
+
+  ::ng-deep .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
+    background-color: #1976d2;
+  }

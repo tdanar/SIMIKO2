@@ -13,23 +13,36 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
-import { MatRippleModule } from '@angular/material/core';
+import { MatOption, MatRippleModule, MatNativeDateModule } from '@angular/material/core';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatBadgeModule } from '@angular/material/badge';
 import { MatTooltipModule } from '@angular/material/tooltip';
+import { MatTableModule } from '@angular/material/table';
+import { MatChipsModule } from '@angular/material/chips';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { MatDialogModule } from '@angular/material/dialog';
+import { MatRadioModule } from '@angular/material/radio';
+import { MatDatepickerModule } from '@angular/material/datepicker';
+import { MatAutocompleteModule } from '@angular/material/autocomplete';
+import { MatExpansionModule } from '@angular/material/expansion';
+
 
 // Import components
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { LayoutComponent } from './layout/layout.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { ConfirmDialogComponent } from './confirm-dialog/confirm-dialog.component';
+import { DynamicFormComponent } from './dynamic-form/dynamic-form.component';
 
 
 @NgModule({
   declarations: [
     SidebarComponent,
     NavbarComponent,
-    LayoutComponent
+    LayoutComponent,
+    ConfirmDialogComponent,
+    DynamicFormComponent,
   ],
   imports: [
     CommonModule,
@@ -50,7 +63,17 @@ import { NavbarComponent } from './navbar/navbar.component';
     MatTooltipModule,
     MatRippleModule,
     MatInputModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+    MatTableModule,
+    MatChipsModule,
+    MatSnackBarModule,
+    MatDialogModule,
+    MatOption,
+    MatRadioModule,
+    MatDatepickerModule,
+    MatNativeDateModule,
+    MatAutocompleteModule,
+    MatExpansionModule,
   ],
   exports: [
     FormsModule,
@@ -68,12 +91,24 @@ import { NavbarComponent } from './navbar/navbar.component';
     MatTooltipModule,
     MatRippleModule,
     MatInputModule,
+    MatTableModule,
+    MatChipsModule,
     MatFormFieldModule,
+    MatSnackBarModule,
+    MatDialogModule,
+    MatOption,
+    MatRadioModule,
+    MatDatepickerModule,
+    MatNativeDateModule,
+    MatAutocompleteModule,
+    MatExpansionModule,
 
     // Export components
     SidebarComponent,
     NavbarComponent,
-    LayoutComponent
+    LayoutComponent,
+    ConfirmDialogComponent,
+    DynamicFormComponent
   ]
 })
 export class SharedModule { }

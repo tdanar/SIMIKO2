@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { UserService } from '../../services/user.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-dashboard',
@@ -39,17 +40,21 @@ export class DashboardComponent implements OnInit {
     }
   ];
 
-  constructor(private userService: UserService) { }
+  constructor(private userService: UserService, public router: Router) { }
 
   ngOnInit(): void {
     this.isLoading = true;
 
     // Ambil data user dari UserService
     this.user = this.userService.getUser();
-    this.isUserAdmin = this.user?.Role?.includes('Administrator') ?? false;
+    this.isUserAdmin = this.user?.role?.includes('Administrator') ?? false;
 
     setTimeout(() => {
       this.isLoading = false;
     }, 1000); // Simulasi loading
   }
+  OnCLickPeriode() {
+    this.router.navigate(['/periode']);
+  }
+  
 }

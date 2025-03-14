@@ -1,13 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 
-/* Import Material theming - in CSS format instead of SCSS */
-@import '@angular/material/prebuilt-themes/indigo-pink.css';
+/* Import Material theming - in CSS format instead of SCSS 
+@import '@angular/material/prebuilt-themes/indigo-pink.css';*/
 
 /* Global styles */
 html, body {
   height: 100%;
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-size: 14px;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -70,12 +71,12 @@ html, body {
 
 /* Custom color variables - using CSS variables */
 :root {
-  --primary-color: #1976d2;
+  --primary-color: #3C8DBC;
   --accent-color: #ffd740;
   --warn-color: #f44336;
   --card-orange: #f39c12;
-  --sidebar-bg: #33465a; /* Lightened sidebar background */
-  --sidebar-header-bg: #293b4f; /* Lightened sidebar header */
+  --sidebar-bg: #1E282C; /* Lightened sidebar background */
+  --sidebar-header-bg: #357CA5; /* Lightened sidebar header */
 }
 
 /* Override some material theme colors */
@@ -98,3 +99,24 @@ html, body {
   height: 64px !important;
   min-height: 64px !important;
 }
+
+/* Override Angular Material overlay */
+.cdk-overlay-container {
+  z-index: 1500 !important;
+}
+
+.mat-menu-panel {
+  z-index: 1501 !important;
+}
+
+.mat-mdc-menu-content {
+    margin: 10px !important;
+}
+
+.mat-mdc-raised-button:not(:disabled) {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+
+
